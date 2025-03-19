@@ -1,0 +1,155 @@
+# Blender 4.4.0 MTL File: '新方案7.blend'
+# www.blender.org
+
+newmtl 凳子
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 1.200000
+Pcr 0.000000
+aniso 0.000000
+anisor 0.000000
+Tf 0.094545 0.094545 0.094545
+map_Kd /home/Papigog/Papigog/小海狸/斑斓/PBR材质/榉木/Wood068_1K-PNG_Color.png
+map_Pr /home/Papigog/Papigog/小海狸/斑斓/PBR材质/榉木/Wood068_1K-PNG_Roughness.png
+
+newmtl 榉木_X
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.400000
+Pcr 0.100000
+aniso 0.000000
+anisor 0.000000
+Tf 0.100000 0.100000 0.100000
+map_Kd -s 2 2 2 /home/Papigog/Papigog/小海狸/斑斓/PBR材质/榉木/Wood068_1K-PNG_Color.png
+map_Pr -s 2 2 2 /home/Papigog/Papigog/小海狸/斑斓/PBR材质/榉木/Wood068_1K-PNG_Roughness.png
+
+newmtl 榉木_Y
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 1.200000
+Pcr 0.000000
+aniso 0.000000
+anisor 0.000000
+Tf 0.094545 0.094545 0.094545
+map_Kd -s 2 2 2 /home/Papigog/Papigog/小海狸/斑斓/PBR材质/榉木/Wood068_1K-PNG_Color.png
+map_Pr -s 2 2 2 /home/Papigog/Papigog/小海狸/斑斓/PBR材质/榉木/Wood068_1K-PNG_Roughness.png
+
+newmtl 榉木_Z
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 1.200000
+Pcr 0.000000
+aniso 0.000000
+anisor 0.000000
+map_Kd -s 2 2 2 /home/Papigog/Papigog/小海狸/斑斓/PBR材质/榉木/Wood068_1K-PNG_Color.png
+map_Pr -s 2 2 2 /home/Papigog/Papigog/小海狸/斑斓/PBR材质/榉木/Wood068_1K-PNG_Roughness.png
+
+newmtl 漆面金属
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+Pr 0.319820
+Pm 1.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+
+newmtl 红木
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.130000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd /home/Papigog/Papigog/小海狸/斑斓/PBR材质/Wood069_1K-PNG/Wood069_1K-PNG_Color.png
+map_Pr /home/Papigog/Papigog/小海狸/斑斓/PBR材质/Wood069_1K-PNG/Wood069_1K-PNG_Roughness.png
+
+newmtl 铝合金
+Kd 0.655033 0.655033 0.655033
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+Pr 0.300000
+Pm 1.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+
+newmtl 锰钢
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+Pr 0.125418
+Pm 1.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+
+newmtl 黄铜
+Kd 1.000000 0.546382 0.160476
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+Pr 0.158863
+Pm 1.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+
+newmtl 黑色橡胶
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pr 0.405405
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
