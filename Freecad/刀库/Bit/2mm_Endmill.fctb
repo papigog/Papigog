@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "2mm_Endmill002",
+  "name": "2mm_Endmill",
   "shape": "endmill.fcstd",
   "parameter": {
     "Chipload": "0.00 mm",
