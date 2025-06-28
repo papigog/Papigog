@@ -2,3 +2,4 @@
 成功部署github，测试推送
 在Windows上部署
 1112
+安装了deepin25正式版，测试推送
