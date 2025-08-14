@@ -43,6 +43,10 @@
     {
       "nr": 11,
       "path": "1.fctb"
+    },
+    {
+      "nr": 12,
+      "path": "3mm_Endmill.fctb"
     }
   ],
   "version": 1
