@@ -1,0 +1,58 @@
+(Exported by FreeCAD)
+(Post Processor: script_module)
+(Output Time:2025-09-24 15:10:24.014046)
+(Begin preamble)
+G17 G90
+G21
+(Begin operation: Fixture)
+(Path: Fixture)
+G54
+(Finish operation: Fixture)
+(Begin operation: 3mm_Endmill005)
+(Path: 3mm_Endmill005)
+(3mm_Endmill005)
+(Begin toolchange)
+( M6 T3 )
+(Finish operation: 3mm_Endmill005)
+(Begin operation: Profile002)
+(Path: Profile002)
+(Profile002)
+(Compensated Tool Path. Diameter: 3.0)
+G0 Z5.000
+G0 X0.000 Y0.000
+G0 X1.317 Y-6.619
+G0 X1.317 Y-6.619 Z3.000
+G1 X1.317 Y-6.619 Z-3.000
+G2 X-1.317 Y6.619 Z-3.000 I-1.317 J6.619 K0.000
+G2 X6.619 Y1.317 Z-3.000 I1.317 J-6.619 K0.000
+G2 X1.317 Y-6.619 Z-3.000 I-6.619 J-1.317 K0.000
+G1 X1.317 Y-6.619 Z-5.000
+G2 X-1.317 Y6.619 Z-5.000 I-1.317 J6.619 K0.000
+G2 X6.619 Y1.317 Z-5.000 I1.317 J-6.619 K0.000
+G2 X1.317 Y-6.619 Z-5.000 I-6.619 J-1.317 K0.000
+G0 Z5.000
+G0 Z5.000
+(Finish operation: Profile002)
+(Begin operation: Profile003)
+(Path: Profile003)
+(Profile003)
+(Compensated Tool Path. Diameter: 3.0)
+G0 Z5.000
+G0 X0.000 Y0.000
+G0 X2.160 Y-12.565
+G0 X2.160 Y-12.565 Z3.000
+G1 X2.160 Y-12.565 Z-3.000
+G2 X-12.565 Y-2.160 Z-3.000 I-2.160 J12.565 K0.000
+G2 X-2.160 Y12.565 Z-3.000 I12.565 J2.160 K0.000
+G2 X2.160 Y-12.565 Z-3.000 I2.160 J-12.565 K0.000
+G1 X2.160 Y-12.565 Z-5.000
+G2 X-12.565 Y-2.160 Z-5.000 I-2.160 J12.565 K0.000
+G2 X-2.160 Y12.565 Z-5.000 I12.565 J2.160 K0.000
+G2 X2.160 Y-12.565 Z-5.000 I2.160 J-12.565 K0.000
+G0 Z5.000
+G0 Z5.000
+(Finish operation: Profile003)
+(Begin postamble)
+M5
+G17 G90
+M2
