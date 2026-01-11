@@ -1,0 +1,9 @@
+临时修改
+成功部署github，测试推送
+在Windows上部署
+1112
+安装了deepin25正式版，测试推送
++1
+git init
+git add .
+git commit -m "描述本次提交的信息"
